@@ -3,7 +3,7 @@ import React from "react";
 
 const Content = (props) => (
     <aside className="Content">
-        Component Content
+        <h1>Component Content</h1>
     </aside>
 )
 
